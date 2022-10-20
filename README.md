@@ -7,8 +7,11 @@ Export resizeable.js to your html file as an inline script or use resizeable.fun
 The default use of resizeable is resizeable(id, aspect=true, ratio="4:3", size=0)
 
 Where id is the id of the image
+
 Aspect define if the image follows a certain aspect ratio
+
 Ratio is the size of the aspect ratio
+
 Size is the int number use to calculate the height through multiplication
 
 ## Example
